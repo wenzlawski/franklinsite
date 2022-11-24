@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width:64%;
   display: inline-block;
 }
 
@@ -27,11 +27,26 @@ nav li a {
   padding-top: 10px;
   padding-right: 2px;
   padding-left: 2px;
-  padding-bottom: 5px;
+  padding-bottom: 2px;
   margin-left: 7px;
   margin-right: 7px;
-  border-bottom: 2px solid #4c9cf1;
+  border-bottom: 3px solid #4c9cf1;
   transition: color 0.3s ease;
+}
+nav li .welcome {
+  border-color: #6fcb9f;
+}
+nav li .about {
+  border-color:  #840000;
+}
+nav li .diary {
+  border-color: #0b0835;
+}
+nav li .projects {
+  border-color: #e5330a;
+}
+nav li .blog {
+  border-color: #f28a10;
 }
 
 header {
@@ -54,6 +69,10 @@ header .blog-name {
 header .blog-name a {
   color: #a6a2a0;
   text-decoration: none;
+}
+
+header .blog-name a img {
+  width: 80px;
 }
 
 header li a:hover {
@@ -91,7 +110,7 @@ header li a:hover {
 /*
 medium display: nav goes under name
 */
-@media (max-width: 760px) {
+@media (max-width: 770px) {
   header {
     display: block;
   }
@@ -103,8 +122,8 @@ medium display: nav goes under name
   }
 
   nav {
-    width: 100%;
-  }
+    width: 85%;
+ } 
 }
 
 /*

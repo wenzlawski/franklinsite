@@ -1,6 +1,6 @@
 @def title = "PathToPerformance blog"
 
-### Blog
+# Projects🌳/ Notebooks🚀/ Research📚
 
 ---
 
