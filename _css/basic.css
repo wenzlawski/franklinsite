@@ -92,7 +92,9 @@ header li a:hover {
 medium display: nav goes under name
 */
 @media (max-width: 760px) {
-  header { display: block; }
+  header {
+    display: block;
+  }
 
   header .blog-name {
     display: block;
@@ -147,8 +149,12 @@ instead, display a burger menu.
     padding: 0;
     margin: 0;
   }
-  header li a { border-bottom: none; }
-  header li a:hover { border-bottom: none; }
+  header li a {
+    border-bottom: none;
+  }
+  header li a:hover {
+    border-bottom: none;
+  }
 
   nav:hover ul {
     display: block;
