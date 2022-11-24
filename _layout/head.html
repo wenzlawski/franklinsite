@@ -4,9 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {{if hasmath}} {{insert head_katex.html }} {{end}} {{if hascode}} {{insert
-    head_highlight.html }} {{end}}
+    head_highlight.html }} {{end}} {{if hasplotly}} {{insert head_plotly.html}}
+    {{end}}
+    <!-- <script src="dist/clipboard.min.js"></script> -->
+   
     <link rel="stylesheet" href="/css/franklin.css" />
     <link rel="stylesheet" href="/css/basic.css" />
+    <!-- <link rel="stylesheet" href="/css/clipboard.css" /> -->
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?" />
     {{isdef title}}
     <title>{{fill title}}</title>
