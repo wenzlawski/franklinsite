@@ -1,0 +1,4 @@
+Sitemap: https://github.com/marcwenz/marcwenz.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
