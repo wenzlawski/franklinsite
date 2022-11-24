@@ -3,7 +3,7 @@ Add here global page variables to use throughout your website.
 -->
 
 +++
-author = "Septimia Zenobia"
+author = "Marc Wenzlawski"
 mintoclevel = 2
 
 # Add here files or directories that should be ignored by Franklin, otherwise
@@ -20,7 +20,7 @@ ignore = ["node_modules/"]
 
 generate_rss = true
 website_title = "Marc Wenzlawski"
-website_descr = "Marc Wenzlawski"
+website_descr = "Personal site of Marc Wenzlawski"
 website_url = "https://github.com/marcwenz/marcwenz.github.io"
 +++
 
