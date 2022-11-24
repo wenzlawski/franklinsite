@@ -12,7 +12,7 @@ pxpt(x) = Int(floor(x * (3 // 4)))
 
 w = 64
 h = 64
-ft = "png"
+ft = "ico"
 pth = "_assets/favicon_$(w)x$(h).$(ft)"
 
 # Remove old version
