@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/pluto/sirmodel/index.html</loc>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/blog/ideas/index.html</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -14,25 +14,7 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/pluto/index.html</loc>
-    <lastmod>2022-11-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://github.com/marcwenz/marcwenz.github.io/menu3/index.html</loc>
-    <lastmod>2022-11-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/menu1/index.html</loc>
-    <lastmod>2022-11-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/about/index.html</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -44,7 +26,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/index.html</loc>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/diary/index.html</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/projects/index.html</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/about/index.html</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -56,13 +50,31 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/diary/index.html</loc>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/projects/pluto/sirmodel/index.html</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://github.com/marcwenz/marcwenz.github.io/pluto/notebooks/sirmodel/</loc>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/blog/index.html</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/menu1/index.html</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/index.html</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://github.com/marcwenz/marcwenz.github.io/projects/notebooks/sirmodel/</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
