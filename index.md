@@ -1,7 +1,7 @@
 @def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
-# More to me
+# What a shitshow
 
 \tableofcontents <!-- you can use \toc as well -->
 
