@@ -40,13 +40,16 @@ nav li .about {
   border-color:  #840000;
 }
 nav li .diary {
-  border-color: #0b0835;
+  border-color: #a2ab73;
 }
 nav li .projects {
   border-color: #e5330a;
 }
 nav li .blog {
   border-color: #f28a10;
+}
+nav li .cv {
+  border-color: #e1c28a;
 }
 
 header {
