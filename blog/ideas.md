@@ -2,45 +2,47 @@
 
 # Blog Ideas
 
-- Julia Microservices
-- Modeling Tasks
-    - Climate Impact Modeling
-    - Modeling biological systems
-    - Modeling an agent-based economic system
-    - Computational Chemistry: modeling reactions
-- Analysing the performance of modeling vs AI in prediction
-- Valuing financial derivatives
-- Edge detection and mapping in autonomous driving
-- Motion analysis
-- Playing with geographical sattelite data
-- Surveying the state of policy and ethics in AI
-- MIT 18.01 - SVC
-- MIT 18.02 - MVC
-- MIT 18.03 - Differential Equations
-- Learning how to learn languages: The Thinking Method and other tactics
-- Metalearning: learning about learning 
-- HPC and its applications
-- Myths debunked by data
-- Learning from economic crashes
-- Personal Finance
-- Integrate everything: finding new ways of automating
-- Is democracy really that bad? Building on philosophy and data.
-- Exploring Crypto Economics
-- Ethics of social media use
-- The dangers and possibilities of robotics
-- Getting good at kaggle-ing
-- The state and future of renewable energy in developing countries
-- Space: what's out there
-- Computational Astrophysics, Exploring Space data
-- China's place in the world and its future
-- What makes a great speech? The art of public speaking and persuasion
-- Living a healthy life: what the science says
-- Exploring the ethics and state of genetic engineering
-- Learning how to write: theory and practice
-- How to get good at everything, learning faster
-- Mnemonics and the art of remembering
-- Dear diary... harnessing the power of journalling in personal development
-- A model for personal development
-- Cognitive biases: What you think you know
-- Philosophy from first principles
-- Poli
+- Explaining Word Embeddings: SVD, word2vec, CBow, skipGram, GloVe.
+- Pluto tutorials which are based on python tutorials. Basically, python tutorials for anything (such as [Kaparthy's micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)).
+- Julia Microservices.
+- Modeling Tasks.
+    - Climate Impact Modeling.
+    - Modeling biological systems.
+    - Modeling an agent-based economic system.
+    - Computational Chemistry: modeling reactions.
+- Analysing the performance of modeling vs AI in prediction.
+- Valuing financial derivatives.
+- Edge detection and mapping in autonomous driving.
+- Motion analysis.
+- Playing with geographical sattelite data.
+- Surveying the state of policy and ethics in AI.
+- MIT 18.01 - SVC.
+- MIT 18.02 - MVC.
+- MIT 18.03 - Differential Equations.
+- Learning how to learn languages: The Thinking Method and other tactics.
+- Metalearning: learning about learning .
+- HPC and its applications.
+- Myths debunked by data.
+- Learning from economic crashes.
+- Personal Finance.
+- Integrate everything: finding new ways of automating.
+- Is democracy really that bad? Building on philosophy and data..
+- Exploring Crypto Economics.
+- Ethics of social media use.
+- The dangers and possibilities of robotics.
+- Getting good at kaggle-ing.
+- The state and future of renewable energy in developing countries.
+- Space: what's out there.
+- Computational Astrophysics, Exploring Space data.
+- China's place in the world and its future.
+- What makes a great speech? The art of public speaking and persuasion.
+- Living a healthy life: what the science says.
+- Exploring the ethics and state of genetic engineering.
+- Learning how to write: theory and practice.
+- How to get good at everything, learning faster.
+- Mnemonics and the art of remembering.
+- Dear diary... harnessing the power of journalling in personal development.
+- A model for personal development.
+- Cognitive biases: What you think you know.
+- Philosophy from first principles.
+- On my thoughts on the British monarchy.

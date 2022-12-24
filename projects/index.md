@@ -1,4 +1,4 @@
-@def title = "PathToPerformance blog"
+@def title = "Marc blog"
 
 # Projects🌳/ Notebooks🚀/ Research📚
 

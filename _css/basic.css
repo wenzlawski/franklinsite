@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width:64%;
+  width: 64%;
   display: inline-block;
 }
 
@@ -33,23 +33,33 @@ nav li a {
   border-bottom: 3px solid #4c9cf1;
   transition: color 0.3s ease;
 }
+
 nav li .welcome {
   border-color: #6fcb9f;
 }
+
 nav li .about {
-  border-color:  #840000;
+  border-color: #840000;
 }
+
 nav li .diary {
   border-color: #a2ab73;
 }
+
 nav li .projects {
   border-color: #e5330a;
 }
+
 nav li .blog {
   border-color: #f28a10;
 }
+
 nav li .cv {
   border-color: #e1c28a;
+}
+
+nav li .play {
+  border-color: #1ab0e7;
 }
 
 header {
@@ -126,7 +136,7 @@ medium display: nav goes under name
 
   nav {
     width: 85%;
- } 
+  }
 }
 
 /*
@@ -171,9 +181,11 @@ instead, display a burger menu.
     padding: 0;
     margin: 0;
   }
+
   header li a {
     border-bottom: none;
   }
+
   header li a:hover {
     border-bottom: none;
   }
@@ -202,7 +214,7 @@ tr:first-of-type {
   background: #eae9f4;
 }
 
-tr:first-of-type > th {
+tr:first-of-type>th {
   text-align: center;
 }
 
